@@ -1,0 +1,9 @@
+# Local configuration
+.vscode
+
+# Test folder
+test/*
+
+# Haskell build
+build/*
+makefile
