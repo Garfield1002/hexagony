@@ -14,11 +14,11 @@ I am missing a better / more consistent way of measuring and comparing interpret
 
 ## 🏁 Roadmap
 
-[ ] Add support for debug symbol
+- [ ] Add support for debug symbol
 
-[ ] Better error messages
+- [ ] Better error messages
 
-[ ] More command line options
+- [ ] More command line options
 
 ## ⭐ Contributions
 
